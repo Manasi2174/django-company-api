@@ -3,6 +3,7 @@
   It includes complete CRUD functionality, a One-to-Many relationship between Company and Employee, and user authentication with admin-only access to modify data..</p>
 
 <h3>📌 Features</h3>
+
 ✅ Full CRUD operations for both Company and Employee models
 
 🔐 Authentication implemented — only authenticated admin users can Create, Update, or Delete
